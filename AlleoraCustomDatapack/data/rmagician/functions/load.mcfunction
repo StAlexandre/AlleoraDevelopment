@@ -1,0 +1,1 @@
+tellraw @a {"text": "Alleora Pack Loaded", "color": "#FF8888"}
