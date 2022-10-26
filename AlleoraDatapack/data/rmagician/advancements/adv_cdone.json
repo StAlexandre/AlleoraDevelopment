@@ -3,7 +3,7 @@
     "unlocked": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "rmagician:your_reality"
+        "recipe": "rmagician:cdone"
       }
     }
   },

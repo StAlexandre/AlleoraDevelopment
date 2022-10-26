@@ -1,0 +1,6 @@
+{
+    "values": [
+        "rmagician:detect_play_tick",
+        "rmagician:detect_stop_tick"
+    ]
+}

@@ -1,0 +1,1 @@
+execute as @s[nbt={SelectedItem:{id:"minecraft:music_disc_11", tag:{CustomModelData:3720001}}}] run item replace entity @s weapon.mainhand with minecraft:music_disc_11{CustomModelData:3720001, HideFlags:32, display:{Lore:['"\\u00a77Your Reality - Lizz Robinett (cover by Michael Tai)"']}}

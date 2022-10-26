@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "records/your_reality"
+    "layer0": "records/cdone"
   }
 }

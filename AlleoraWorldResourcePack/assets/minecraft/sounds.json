@@ -1,0 +1,10 @@
+{
+  "music_disc.cdone": {
+      "sounds": [
+          {
+              "name": "records/cdone",
+              "stream": true
+          }
+      ]
+  }
+}
