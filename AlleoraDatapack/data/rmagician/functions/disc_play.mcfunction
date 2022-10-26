@@ -1,0 +1,1 @@
+execute as @s[scores={heldDisc=3720001}] run function rmagician:play_cdone
