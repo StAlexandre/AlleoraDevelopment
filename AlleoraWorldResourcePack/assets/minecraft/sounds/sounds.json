@@ -1,3 +1,10 @@
 {
-  "cdf/your_reality": {"sounds":[{"name":"minecraft:records/your_reality","stream":true,"attenuation_distance":64}]}
+  "music_disc.yourrealitylizzrobinettcoverbymichaeltai": {
+      "sounds": [
+          {
+              "name": "records/yourrealitylizzrobinettcoverbymichaeltai",
+              "stream": true
+          }
+      ]
+  }
 }
