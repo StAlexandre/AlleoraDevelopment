@@ -1,1 +1,1 @@
-execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:3720001, HideFlags:32, display:{Lore:['"\\u00a77Your Reality - Lizz Robinett (cover by Michael Tai)"']}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:3720001, HideFlags:32, display:{Lore:['"\\u00a77Your Reality - Team Salvato (Cover by @AlmightyDupus)"']}}}}
