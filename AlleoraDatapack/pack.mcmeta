@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 10,
-        "description": "Adds 1 custom music discs"
+        "description": "Enables custom disc audio to play."
     }
 }

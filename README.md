@@ -4,4 +4,8 @@ This is intended to serve as the central hub for all the behind-the-scenes devel
 
 Yes, it is barebones at the moment, but as it's built up, more files and descriptions will be added.
 
-The main branch only displays the resource pack version. Swap to the Datapack development branch for the datapack code.
+Within the [Downloads](https://github.com/StAlexandre/AlleoraDevelopment/tree/main/Downloads), you'll find the current resource packs and data pack zip files.
+
+Recipe:
+
+Music Disc 11 + Book & Quill + Emerald
