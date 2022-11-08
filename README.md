@@ -6,6 +6,8 @@ Yes, it is barebones at the moment, but as it's built up, more files and descrip
 
 Within the [Downloads](https://github.com/StAlexandre/AlleoraDevelopment/tree/main/Downloads), you'll find the current resource packs and data pack zip files. No need to unzip, just download and plug them into the proper folders!
 
+As for the Test World download, you'll need to unzip it in your "saves" folder in order to use the test world to experience it yourself. The resource pack and datapack are already inside the world, though, so you won't need to download the other two to test it out!
+
 Datapack should be put into the datapack folder, and if using the datapack, make sure to also download the resource pack labeled DPForm. The two need to be used in tandem for proper functionality.
 
 If you plan on using just the resource pack, download the standalone form.
