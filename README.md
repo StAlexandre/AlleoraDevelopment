@@ -28,9 +28,12 @@ Original GodItems textures are kept.
 
 ![Retextured Might of Thunder](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/Smithing.png)
 
+* Created pack image
 
-### Datapack form:
-* A disc with a custom skin and audio is resulted from the crafting
+![Alleora Pack image](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/AlleoraWorldResourcePack/pack.png)
+
+### Datapack form difference:
+* A disc with a custom skin and audio is resulted from the crafting, default Disc 11 is still accessible
   * Audio created by [@AlmightyDupus](https://twitter.com/AlmightyDupus)
 
 ![Retextured music disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/cdone_Large.png)
@@ -39,5 +42,5 @@ https://user-images.githubusercontent.com/106701551/201220660-494b5636-df5c-476d
 
 [Original source](https://youtu.be/fdopRBthY1U)
 
-### Standalone form:
+### Standalone form difference:
 * All music disc 11 are retextured and play the customized audio, original disc appearance and sound is replaced
