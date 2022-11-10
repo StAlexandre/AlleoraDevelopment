@@ -35,7 +35,7 @@ Original GodItems textures are kept.
 
 ![Retextured music disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/cdone_Large.png)
 
-[https://user-images.githubusercontent.com/106701551/201220660-494b5636-df5c-476d-afef-27dd0b6abde0.mp4]
+https://user-images.githubusercontent.com/106701551/201220660-494b5636-df5c-476d-afef-27dd0b6abde0.mp4
 
 [Original source](https://youtu.be/fdopRBthY1U)
 
