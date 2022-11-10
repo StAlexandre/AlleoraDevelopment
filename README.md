@@ -16,13 +16,14 @@ If you plan on using just the resource pack, download the standalone form.
 
 * Adds a new recipe to the default game
 
-![Recipe image - shapeless with emerald, book & quill, and disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readImages/Crafting.png)
+![Recipe image - shapeless with emerald, book & quill, and disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/Crafting.png)
 
-* Playing the custom disc overrides the music from the jukebox and instead plays the audio file from the player's position.
-  * It may be possible to instead replace the music coming from the jukebox, but the core code of the game would need to be investigated.
+* Playing the custom disc overrides the music from the jukebox and instead plays the audio file from the player's position
+  * Datapack made using [Infinite Music Discs App](https://github.com/TeamTernate/infinite-music-discs)
+  * It may be possible to instead replace the music coming from the jukebox, but the core code of the game would need to be investigated
 
 ## Resourcepack changes:
-
+Original GodItems textures are kept.
 * Patched issue with original GodItems pack where upgrading the Might of Thunder to netherite would result in the default netherite axe texture
 
 ![Retextured Might of Thunder](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/Smithing.png)
@@ -34,7 +35,9 @@ If you plan on using just the resource pack, download the standalone form.
 
 ![Retextured music disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/cdone_Large.png)
 
-https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/DupusMIDI.mp4
+[https://user-images.githubusercontent.com/106701551/201220660-494b5636-df5c-476d-afef-27dd0b6abde0.mp4]
+
+[Original source](https://youtu.be/fdopRBthY1U)
 
 ### Standalone form:
-* All music disc 11 are retextured and play the customized audio, original disc appearance and sound is replaced.
+* All music disc 11 are retextured and play the customized audio, original disc appearance and sound is replaced
