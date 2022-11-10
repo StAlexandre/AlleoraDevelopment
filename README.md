@@ -12,6 +12,29 @@ Datapack should be put into the datapack folder, and if using the datapack, make
 
 If you plan on using just the resource pack, download the standalone form.
 
-Recipe:
+## Datapack changes:
 
-Music Disc 11 + Book & Quill + Emerald
+* Adds a new recipe to the default game
+
+![Recipe image - shapeless with emerald, book & quill, and disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readImages/Crafting.png)
+
+* Playing the custom disc overrides the music from the jukebox and instead plays the audio file from the player's position.
+  * It may be possible to instead replace the music coming from the jukebox, but the core code of the game would need to be investigated.
+
+## Resourcepack changes:
+
+* Patched issue with original GodItems pack where upgrading the Might of Thunder to netherite would result in the default netherite axe texture
+
+![Retextured Might of Thunder](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/Smithing.png)
+
+
+### Datapack form:
+* A disc with a custom skin and audio is resulted from the crafting
+  * Audio created by [@AlmightyDupus](https://twitter.com/AlmightyDupus)
+
+![Retextured music disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/cdone_Large.png)
+
+https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/DupusMIDI.mp4
+
+### Standalone form:
+* All music disc 11 are retextured and play the customized audio, original disc appearance and sound is replaced.
