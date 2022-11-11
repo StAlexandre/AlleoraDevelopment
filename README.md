@@ -41,4 +41,4 @@ https://user-images.githubusercontent.com/106701551/201220660-494b5636-df5c-476d
 [Original source](https://youtu.be/fdopRBthY1U)
 
 ### Standalone form difference:
-* All music disc 11 are retextured and play the customized audio, original disc appearance and sound is replaced
+* All music disc 11 are retextured and play the customized audio, original vanilla disc appearance and sound is replaced
