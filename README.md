@@ -1,6 +1,6 @@
 # AlleoraDevelopment
 ***
-This is intended to serve as the central hub for all the behind-the-scenes development of [Angel Steps'](https://twitter.com/angelstepsvr) Minecraft server.
+This is the place where I have stored the proposed addition of a datapack as well as the accompanying revisions to the server resource pack. to the Angel Steps server.
 
 Within the [Downloads](https://github.com/StAlexandre/AlleoraDevelopment/tree/main/Downloads), you'll find the current resource packs and data pack zip files. No need to unzip, just download and plug them into the proper folders!
 
