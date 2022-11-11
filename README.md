@@ -16,7 +16,7 @@ If you plan on using just the resource pack, download the standalone form.
 
 ![Recipe image - shapeless with emerald, book & quill, and disc 11](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/Crafting.png)
 
-* Playing the custom disc overrides the music from the jukebox and instead plays the audio file from the player's position
+* Playing the custom disc overrides 11.ogg that would normally play from the jukebox and instead plays the audio file from the player's position
   * Datapack made using [Infinite Music Discs App](https://github.com/TeamTernate/infinite-music-discs)
   * It may be possible to instead replace the music coming from the jukebox, but the core code of the game would need to be investigated
 
