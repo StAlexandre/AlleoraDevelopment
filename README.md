@@ -23,6 +23,7 @@ If you plan on using just the resource pack, download the standalone form.
 ## Resourcepack changes:
 Original GodItems textures are kept.
 * Patched issue with original GodItems pack where upgrading the Might of Thunder to netherite would result in the default netherite axe texture
+  * Considering pulling the VanillaTweaks Dragon Elytra skin to draw over the Dragon Wing item. 
 
 ![Retextured Might of Thunder](https://github.com/StAlexandre/AlleoraDevelopment/blob/main/readResources/Smithing.png)
 
