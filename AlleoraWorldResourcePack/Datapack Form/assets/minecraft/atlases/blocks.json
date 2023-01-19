@@ -1,0 +1,14 @@
+{
+  "sources": [
+      {
+          "type": "directory",
+          "source": "records",
+          "prefix": "records/"
+      },
+      {
+          "type": "directory",
+          "source": "items",
+          "prefix": "items/"
+      }
+  ]
+}
